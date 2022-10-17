@@ -1,0 +1,15 @@
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\bin\Debug\net6.0\IKFergusonOddOrEven.exe
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\bin\Debug\net6.0\IKFergusonOddOrEven.deps.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\bin\Debug\net6.0\IKFergusonOddOrEven.runtimeconfig.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\bin\Debug\net6.0\IKFergusonOddOrEven.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\bin\Debug\net6.0\IKFergusonOddOrEven.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\obj\Debug\net6.0\IKFergusonOddOrEven.csproj.AssemblyReference.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\obj\Debug\net6.0\IKFergusonOddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\obj\Debug\net6.0\IKFergusonOddOrEven.AssemblyInfoInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\obj\Debug\net6.0\IKFergusonOddOrEven.AssemblyInfo.cs
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\obj\Debug\net6.0\IKFergusonOddOrEven.csproj.CoreCompileInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\obj\Debug\net6.0\IKFergusonOddOrEven.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\obj\Debug\net6.0\refint\IKFergusonOddOrEven.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\obj\Debug\net6.0\IKFergusonOddOrEven.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\obj\Debug\net6.0\IKFergusonOddOrEven.genruntimeconfig.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonOddOrEven\obj\Debug\net6.0\ref\IKFergusonOddOrEven.dll
