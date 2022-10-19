@@ -1,6 +1,10 @@
 ﻿//Isaiah Keith Ferguson
-//10/17/22
-// Odd or Even 
+//10/18/22
+//Odd or Even 
+//The user will enter a number at we will output whether it is even or odd.
+//Peer Reviewed by:
+
+Console.Clear();
 
 string programEnd = "";
 double remainder = 0;
@@ -11,12 +15,14 @@ string num;
 
 
 while(programEnd != "end"){
-Console.WriteLine("Please enter a number");
+Console.WriteLine("Hello~! we will tell you if your number is odd or even!");
+Console.WriteLine("Please enter a number:");
+
 num = Console.ReadLine();
- isNumber = double.TryParse(num, out validnum);
+isNumber = double.TryParse(num, out validnum);
 
 if(!isNumber){
-    Console.WriteLine("Thats not a number");
+    Console.WriteLine("Thats not a number.");
     Console.WriteLine("Type 'End' to end the program or any other input to replay");
 }else
 {
